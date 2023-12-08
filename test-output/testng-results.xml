@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-07T07:24:29Z" name="Default suite" finished-at="2023-12-07T07:24:38Z" duration-ms="8749">
+    <groups>
+    </groups>
+    <test started-at="2023-12-07T07:24:29Z" name="Default test" finished-at="2023-12-07T07:24:38Z" duration-ms="8749">
+      <class name="AutomationStepbyStep.TestNg_Demo">
+        <test-method is-config="true" signature="setUpTest()[pri:0, instance:AutomationStepbyStep.TestNg_Demo@3901d134]" started-at="2023-12-07T14:24:29Z" name="setUpTest" finished-at="2023-12-07T14:24:32Z" duration-ms="2323" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpTest -->
+        <test-method signature="Googlesearch()[pri:0, instance:AutomationStepbyStep.TestNg_Demo@3901d134]" started-at="2023-12-07T14:24:32Z" name="Googlesearch" finished-at="2023-12-07T14:24:37Z" duration-ms="5426" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Googlesearch -->
+        <test-method is-config="true" signature="tearDownTest()[pri:0, instance:AutomationStepbyStep.TestNg_Demo@3901d134]" started-at="2023-12-07T14:24:37Z" name="tearDownTest" finished-at="2023-12-07T14:24:38Z" duration-ms="982" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownTest -->
+      </class> <!-- AutomationStepbyStep.TestNg_Demo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
